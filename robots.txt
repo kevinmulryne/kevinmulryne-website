@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kevinmulryne.github.io/kevinmulryne-website/sitemap.xml
